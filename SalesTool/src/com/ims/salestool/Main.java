@@ -11,5 +11,7 @@ public class Main {
 	
 	private static void greetings() {
 		System.out.println("Hello Sales team...");
+		
+		System.out.println("Test 1");
 	}
 }
